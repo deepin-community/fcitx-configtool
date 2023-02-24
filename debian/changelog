@@ -1,8 +1,9 @@
-fcitx-configtool (0.4.10.32-1+u003) UNRELEASED; urgency=medium
+fcitx-configtool (0.4.10.32-1deepin) unstable; urgency=medium
 
-  * update
+  [ LiChengGang ]
+  * 
 
- -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 05:34:32 -0400
+ -- LiChengGang <lichenggang@uniontech.com>  Fri, 24 Feb 2023 11:35:15 +0800
 
 fcitx-configtool (0.4.10.32-1) unstable; urgency=medium
 
